@@ -1,2 +1,2 @@
 # React-CRUD
-n sei ainda dps escrevo
+Aplicação web basica para execução de CRUD completo em React - Node.js - Express - MySql
